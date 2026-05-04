@@ -11,10 +11,6 @@
                 <h2 class="text-3xl font-black tracking-tight text-[#1e2939] sm:text-4xl">Restaurant Management</h2>
                 <p class="mt-1 text-base font-semibold text-[#4a5565]">Kelola restoran &amp; mystery boxes</p>
             </div>
-            <button type="button" onclick="document.getElementById('dlg-add').showModal()"
-                    class="inline-flex items-center gap-2 rounded-2xl bg-gradient-to-r from-[#f97316] to-[#ea580c] px-6 py-3 text-base font-black text-white shadow-lg hover:opacity-95">
-                <span aria-hidden="true">+</span> Add Restaurant
-            </button>
         </div>
 
         <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
